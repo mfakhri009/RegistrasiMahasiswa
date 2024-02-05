@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Registrasi Mahasiswa</string>
+    <string-array name="nama_prodi">
+        <item>Akuntansi</item>
+        <item>Manajemen</item>
+        <item>Manajemen Informatika</item>
+        <item>Hukum</item>
+        <item>Pendidikan Biologi</item>
+        <item>Pendidikan Bahasa Inggris</item>
+        <item>Pendidikan Bahasa Indonesia</item>
+        <item>Pendidikan Matematika</item>
+        <item>Pendidikan Ekonomi</item>
+        <item>Peternakan</item>
+        <item>Agribisnis</item>
+        <item>Agrobisnis</item>
+    </string-array>
+</resources>
